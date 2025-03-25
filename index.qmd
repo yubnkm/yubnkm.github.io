@@ -1,5 +1,5 @@
 ---
-title: "Yubin"
+title: "Yubin Kim"
 about:
   template: jolla
   image: profile.jpg
@@ -11,8 +11,4 @@ about:
 
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
-
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
-
-Please feel free to get in touch!
+I am a first year Ph.D. student in Economics at Brown University. I'm interested in theoretical and applied econometrics research.
